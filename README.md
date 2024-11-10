@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fullstack developer<br>I'm currently learning about AI and Machine learning<br>Ask me about HTML ,CSS and JS<br>I'm currently working on open source softwares<br>
+I am a fullstack developer<br>DevOps<br>Ask me about HTML,CSS and JS<br>I'm currently working on open source software <br>
 
 
 ## 🌐 Socials:
