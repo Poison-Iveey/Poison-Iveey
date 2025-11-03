@@ -18,8 +18,4 @@ I am a fullstack developer<br>DevOps<br>Ask me about HTML,CSS and JS<br>I'm curr
 ---
 [![](https://visitcount.itsvg.in/api?id=POISON-IVEEY&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @Poison-Iveey
-
-Poison-Iveey/Poison-Iveey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
